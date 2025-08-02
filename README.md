@@ -19,4 +19,8 @@ https://happy-armchair-815.notion.site/Face-Aging-Model-1f816f25632d80f79f38ede6
 2.There are Section 6 and Section 7 remaining so , I will first complete those then i will procede towards completing it
 
 **I have also uploaded all my codes which i had written on VSCode on week vise for reference
-
+** This was till midterm***
+**endterm begins here***
+I made a model, I made it in 2 parts , one with full folders and one with direct one code which can run this
+There is some error with this as it shows blue image not the transformed image ig, it is with dimensions 
+rest all i made 
